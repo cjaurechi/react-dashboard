@@ -1,6 +1,6 @@
 import React from 'react'
 
-function ContentCardSmall () {
+function SmallCard () {
     return (
         <div class="col-md-4 mb-4">
             <div class="card border-left-primary shadow h-100 py-2">
@@ -20,4 +20,4 @@ function ContentCardSmall () {
     )
 }
 
-export default ContentCardSmall;
+export default SmallCard;
