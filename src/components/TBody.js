@@ -16,9 +16,9 @@ function TBody() {
 				</td>
 				<td>
 					<ul>
-						<li><span class="text-danger">Red</span></li>
-						<li><span class="text-primary">Blue</span></li>
-						<li><span class="text-success">Green</span></li>
+						<li><span className="text-danger">Red</span></li>
+						<li><span className="text-primary">Blue</span></li>
+						<li><span className="text-success">Green</span></li>
 					</ul>
 				</td>
 				<td>245</td>
@@ -36,9 +36,9 @@ function TBody() {
 				</td>
 				<td>
 					<ul>
-						<li><span class="text-danger">Red</span></li>
-						<li><span class="text-primary">Blue</span></li>
-						<li><span class="text-success">Green</span></li>
+						<li><span className="text-danger">Red</span></li>
+						<li><span className="text-primary">Blue</span></li>
+						<li><span className="text-success">Green</span></li>
 					</ul>
 				</td>
 				<td>245</td>
